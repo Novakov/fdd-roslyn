@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CqrsExtensions", "CqrsExtensions\CqrsExtensions\CqrsExtensions.csproj", "{CCF3C694-7851-4695-9AF4-B2615064B5E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CqrsExtensions.Vsix", "CqrsExtensions\CqrsExtensions.Vsix\CqrsExtensions.Vsix.csproj", "{1AB61BBF-6176-4E17-BF04-9A61C9B4CAF4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NHibernateAnalyzers", "NHibernateAnalyzers\NHibernateAnalyzers\NHibernateAnalyzers.csproj", "{4FC1784C-54B6-4941-A9D2-A85475A8F4F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NHibernateAnalyzers.Vsix", "NHibernateAnalyzers\NHibernateAnalyzers.Vsix\NHibernateAnalyzers.Vsix.csproj", "{F1A94E97-6D77-4342-A5DE-FAB4269E9A7E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A74369F3-4503-45A9-926B-92A5DC683578}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MassiveRename", "MassiveRename\MassiveRename.csproj", "{8A624852-8413-481F-B954-81B08BDA00C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompilationError", "CompilationError\CompilationError.csproj", "{2C6457CF-A64D-4583-9D67-FFDAC2A687AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCF3C694-7851-4695-9AF4-B2615064B5E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCF3C694-7851-4695-9AF4-B2615064B5E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCF3C694-7851-4695-9AF4-B2615064B5E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCF3C694-7851-4695-9AF4-B2615064B5E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AB61BBF-6176-4E17-BF04-9A61C9B4CAF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AB61BBF-6176-4E17-BF04-9A61C9B4CAF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AB61BBF-6176-4E17-BF04-9A61C9B4CAF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AB61BBF-6176-4E17-BF04-9A61C9B4CAF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FC1784C-54B6-4941-A9D2-A85475A8F4F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FC1784C-54B6-4941-A9D2-A85475A8F4F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FC1784C-54B6-4941-A9D2-A85475A8F4F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FC1784C-54B6-4941-A9D2-A85475A8F4F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1A94E97-6D77-4342-A5DE-FAB4269E9A7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1A94E97-6D77-4342-A5DE-FAB4269E9A7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1A94E97-6D77-4342-A5DE-FAB4269E9A7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1A94E97-6D77-4342-A5DE-FAB4269E9A7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A624852-8413-481F-B954-81B08BDA00C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A624852-8413-481F-B954-81B08BDA00C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A624852-8413-481F-B954-81B08BDA00C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A624852-8413-481F-B954-81B08BDA00C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C6457CF-A64D-4583-9D67-FFDAC2A687AF}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{2C6457CF-A64D-4583-9D67-FFDAC2A687AF}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{2C6457CF-A64D-4583-9D67-FFDAC2A687AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C6457CF-A64D-4583-9D67-FFDAC2A687AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
